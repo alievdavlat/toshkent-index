@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://avtoindex.uz/
+
+# Sitemaps
+Sitemap: https://avtoindex.uz/sitemap.xml
